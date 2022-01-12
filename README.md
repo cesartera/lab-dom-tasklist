@@ -16,3 +16,4 @@ Criar uma aplicação de Lista de Tarefas que:
 
 - Fazer o botão `!` aparecer apenas quando o usuário passar o mouse sobre uma determinada tarefa.
 - Fazer com que as tarefas marcadas como importante apareçam primeiro na lista.
+- Adicionar uma janela de confirmação para Exclusão de Tarefas.
